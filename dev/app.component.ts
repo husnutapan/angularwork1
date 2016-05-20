@@ -9,6 +9,6 @@ import {Component} from 'angular2/core';
 })
 export class AppComponent {
     onTest() {
-        return 1 == 1;
+        return true;
     }
 }
